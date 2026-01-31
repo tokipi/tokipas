@@ -64,17 +64,6 @@ body {
   color: #39D0CD;
 }
 
-.fas.fa-shopping-cart.fa-2x{
-  color: #2021A0;
-  transition: transform 0.2s ease, color 0.3s ease;
-  cursor: pointer;
-}
-
-.fas.fa-shopping-cart.fa-2x:hover{
-  transform: scale(1.1);
-  color: #39D0CD;
-}
-
 .hr {
   width: 30%;
   background: #2021A0;
@@ -111,4 +100,5 @@ body {
 
 .all {
   padding: 20px;
+
 }
