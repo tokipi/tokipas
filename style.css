@@ -32,41 +32,41 @@ body {
 }
 
 .fa-brands.fa-twitch.fa-2x{
-  color: #2021A0;
+  color: #00104c;
   transition: transform 0.2s ease, color 0.3s ease;
   cursor: pointer;
 }
 
 .fa-brands.fa-twitch.fa-2x:hover{
   transform: scale(1.1);
-  color: #39D0CD;
+  color: #60cecf;
 }
 
 .fa-brands.fa-x-twitter.fa-2x{
-  color: #2021A0;
+  color: #00104c;
   transition: transform 0.2s ease, color 0.3s ease;
   cursor: pointer;
 }
 
 .fa-brands.fa-x-twitter.fa-2x:hover{
   transform: scale(1.1);
-  color: #39D0CD;
+  color: #60cecf;
 }
 
 .fa-brands.fa-youtube.fa-2x{
-  color: #2021A0;
+  color: #00104c;
   transition: transform 0.2s ease, color 0.3s ease;
   cursor: pointer;
 }
 
 .fa-brands.fa-youtube.fa-2x:hover{
   transform: scale(1.1);
-  color: #39D0CD;
+  color: #60cecf;
 }
 
 .hr {
   width: 30%;
-  background: #2021A0;
+  background: #00104c;
   margin: 20px auto;
   height: 1px;
 }
@@ -88,17 +88,18 @@ body {
   font-family: "Archivo Black";
   line-height: 0.50;
   font-size: 40px;
-  color: #2021A0;
+  color: #00104c;
 }
 
 .a2 {
   font-family: "Nunito";
   line-height: 0.50;
   font-size: 20px;
-  color: #2021A0;
+  color: #00104c;
 }
 
 .all {
   padding: 20px;
 
 }
+
