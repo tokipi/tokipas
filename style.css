@@ -39,7 +39,7 @@ body {
 
 .fa-brands.fa-twitch.fa-2x:hover{
   transform: scale(1.1);
-  color: #60cecf;
+  color: #305CC8;
 }
 
 .fa-brands.fa-x-twitter.fa-2x{
@@ -50,7 +50,7 @@ body {
 
 .fa-brands.fa-x-twitter.fa-2x:hover{
   transform: scale(1.1);
-  color: #60cecf;
+  color: #305CC8;
 }
 
 .fa-brands.fa-youtube.fa-2x{
@@ -61,7 +61,7 @@ body {
 
 .fa-brands.fa-youtube.fa-2x:hover{
   transform: scale(1.1);
-  color: #60cecf;
+  color: #305CC8;
 }
 
 .hr {
@@ -102,4 +102,5 @@ body {
   padding: 20px;
 
 }
+
 
